@@ -1,0 +1,5 @@
+﻿  Juego.cpp
+  main.cpp
+C:\Users\Paulyn\source\repos\PruebaBoomberman\main.cpp(14,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  PruebaBoomberman.vcxproj -> C:\Users\Paulyn\source\repos\PruebaBoomberman\x64\Debug\PruebaBoomberman.exe
